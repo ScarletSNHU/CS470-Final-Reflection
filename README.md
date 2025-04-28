@@ -3,6 +3,8 @@ Scarlet Hodges
 4-26-2025
 
 CS470
+
+https://www.youtube.com/watch?v=fedGB-hEWmY
   
 # Experiences and Strengths
 Throughout taking CS470, I’ve significantly increased my technical skills and feel as if I’ve been
