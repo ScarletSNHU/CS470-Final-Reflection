@@ -3,9 +3,6 @@ Scarlet Hodges
 4-26-2025
 
 CS470
-
-                                      
-                                      CS470 Final Reflection
   
 # Experiences and Strengths
 Throughout taking CS470, I’ve significantly increased my technical skills and feel as if I’ve been
